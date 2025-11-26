@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of URJA",
+  "description": "An advanced, fully offline physical-education training application. Features 3D anatomy exploration, sports learning modules, an AI fitness coach, and activity tracking. Designed for mobile and laptop use.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
